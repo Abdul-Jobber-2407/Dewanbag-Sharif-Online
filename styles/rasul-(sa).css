@@ -1,0 +1,38 @@
+#bani-mubarak{
+    border: 2px solid greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+
+}
+.picture{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+
+}
+main{
+    background-color: antiquewhite;
+}
+
+.text{
+    padding:60px ;
+    margin: 0 auto;
+}
+
+.eid-a-milad-unnabi{
+    border: 10px solid tomato;
+    display: flex;   
+    justify-content:center;
+    background-color: rgb(56, 165, 42);
+ 
+}
+.milad-unnabi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+

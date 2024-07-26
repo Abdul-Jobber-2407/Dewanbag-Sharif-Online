@@ -1,0 +1,30 @@
+    .home{
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+        text-decoration: none;
+        
+    }
+    .none{
+        text-decoration: none;   list-style: none;
+    }
+    .parents{
+    border: 2px solid tomato;
+    display: flex;
+    padding: 20px 30px;
+    justify-content: center;
+    align-items: ceneter;
+    height:1000px;
+    width:500x;
+
+    }
+
+.child{
+width: 100px;
+height: 100px;
+border: 2px solid gold;
+padding: 10px;
+
+
+
+}

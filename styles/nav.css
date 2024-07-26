@@ -1,0 +1,32 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav  li{
+    list-style: none;
+    margin-right: 5px;
+    padding:10px;
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+ nav li:hover{
+    background-color:greenyellow;
+ }
+
+ /* nested menu styles  */
+ nav li .dropdown{
+    display: none;
+ }
+
+ nav li:hover.dropdown{
+    /* display: block; */
+ }
